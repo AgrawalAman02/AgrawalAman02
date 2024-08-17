@@ -15,8 +15,8 @@
 <a href="https://linkedin.com/in/aman kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-kumar-647581259" height="30" width="40" /></a>
 <a href="https://fb.com/aman agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aman agrawal" height="30" width="40" /></a>
 <a href="https://instagram.com/aman.agrawal02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aman.agrawal02" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/agrawal_aman_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="agrawal_aman_02" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/amanhz8hq8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amanhz8hq8" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/agrawal_aman_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="agrawal_aman_02" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/amanhz8hq8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amanhz8hq8" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
