@@ -1,4 +1,8 @@
-![logo](https://github.com/AgrawalAman02/AgrawalAman02/blob/main/Banner.jpg.png)
+<!-- Animated Gif Here -->
+<p align="center">
+  <img src="animated.gif" align="center" width="100%"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Aman Agrawal</h1>
 <h3 align="center"> <br>A CS student at Netaji Subhash Engineering College, I thrive on approaching DSA problems in Java with a creative mindset. This approach translates into innovative web applications that make a difference in learning Web Developement</h3>
 
