@@ -1,6 +1,6 @@
 <!-- Animated Gif Here -->
 <p align="center">
-  <img src="animated.gif" align="center" width="100%"/>
+  <img src="animated.gif" align="center" width="100%" height="75%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Aman Agrawal</h1>
