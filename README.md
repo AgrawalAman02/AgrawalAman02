@@ -4,7 +4,6 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Aman Agrawal</h1>
-<h4 align="center">Huh! Busy in exams...</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agrawalaman02&label=Profile%20views&color=0e75b6&style=flat" alt="agrawalaman02" /> </p>
 <h3 align="left">Connect with me:</h3>
